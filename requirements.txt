@@ -1,0 +1,6 @@
+flask
+graphene==2.1.9
+sqlalchemy
+flask_graphql
+flask_admin
+flask_sqlalchemy
